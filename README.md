@@ -7,14 +7,14 @@ The textarea targeted methods use:
 ```
 \n and \t
 ```
-The DIV targeted meethods use:
+The DIV targeted methods use:
 ```
 <br> and &nbsp;
 ```
 There are also methods for each context that implement basic colour highlighting.
 
 ## Usage
-This script contaisn a set of working samples divided into seperate blocks.  
+This script contains a set of working samples divided into separate blocks.  
 Strip out the method(s) you need and place them into callable functions wthin your code.
 
 ## JSON
