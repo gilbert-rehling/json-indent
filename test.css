@@ -7974,3 +7974,9 @@ html.is-reveal-open body {
         display: block !important;
     }
 }
+
+div.border div {
+    border: 1rem solid #8F95A0;
+    border-radius: 20px;
+    padding: 20px;
+}
