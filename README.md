@@ -28,5 +28,5 @@ obj = JSON.parse( json );
 I'm going to be writing a library to manage 'Indented JSON' within a Textarea that will keep the format in play while allowing editing (adding / removing) of JSON elements. This will eventually include variuous levels error checking.. 
 
 ### License
-Released with fullv a Copy Left do as you want MIT license without any warrany or guarantee whatsoever. It works for my intended use though!
+Released with a full Copy Left do as you want MIT license without any warrany or guarantee whatsoever. It works for my intended use though!
 Hopefully you will find some use of this...
