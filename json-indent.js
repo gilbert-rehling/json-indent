@@ -4,12 +4,12 @@
  * @package      Vanilla JavaScript
  * @subpackage   json-indent.js
  * @link         https://github.com/gilbert-rehling/json-indent - JSON Indent
- * @copyright    Copyright (c) 2020. Gilbert Rehling of MMFAW. All rights reserved. (www.mfmaw.com)
- * @licence      JSON Indent is an Open Source Project released under the GNU GPLv3 license model.
+ * @copyright    Copyright (c) 2020. Gilbert Rehling of MMFAW. No rights reserved. (www.mfmaw.com)
+ * @licence      JSON Indent is an Open Source Project released under the MIT license model.
  * @author       Gilbert Rehling:  gilbert@phpmongoadmin.com (www.gilbert-rehling.com)
  *  json-indent - License conditions:
  *  This web application is available as Free Software and has no implied warranty or guarantee of usability.
- *  See https://www.gnu.org/licenses/license-list.html for information on GNU General Public License v3.0
+ *  See https://www.gnu.org/licenses/license-list.html for information on the MIT License
  */
 
 /**
